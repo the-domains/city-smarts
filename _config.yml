@@ -1,0 +1,28 @@
+name: City Smarts
+favicon: null
+layout_spectrum: 0.2941956778522581
+typography_spectrum: 0.2476149550639093
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.38773259124718606
+  lightness: 0.7648369492962956
+  saturation: 0.01938938000239432
+  rhythmicContrast: 0.6077043942641467
+purpose: []
