@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[City Smarts]]></title>
+        <description><![CDATA[City Smarts]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Apr 2016 01:05:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, Urban World!]]></title>
+            <description><![CDATA[<article><h1>Hello, Urban World!</h1><p>My name is Ido. For the last year or so, I've been a co-founder in ZenCity, a startup that is trying to change the way cities engage with their inhabitants, using open (and less open) data, digital interfaces, physical devices that affect these interfaces and, well, people.</p></article>]]></description>
+            <link>undefinedhello-urban-world/index.html</link>
+            <guid isPermaLink="false">9a120d8c-7dc9-4d35-ae05-7cbd303d5116</guid>
+            <pubDate>Sun, 24 Apr 2016 01:05:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
